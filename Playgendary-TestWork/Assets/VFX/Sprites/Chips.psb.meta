@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dcef55bae66c5024c9432e809e2c3bb1
+guid: 288078dc081f1e94d8775ac6516262c5
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -92,91 +92,7 @@ ScriptedImporter:
     uvTransform: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
-  - name: target_booster_red
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 3372
-      y: 150
-      width: 120
-      height: 118
-    spriteID: 7cab7e632f1a5b746af276f18ed6b3e9
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 2219, y: -52}
-  - name: Rocket_shadow
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 3372
-      y: 4
-      width: 133
-      height: 138
-    spriteID: c042a38295de415428ede91c2e920e72
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 2215, y: -181}
-  - name: Chips
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 1296
-      width: 1161
-      height: 1156
-    spriteID: 7d1e774d46477584696f90d3a6b348a9
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -508, y: 1231}
-  - name: Field_n_shadow
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 2060
-      y: 4
-      width: 1304
-      height: 1262
-    spriteID: c94b2962e4f266a47b928c8f522d5d8c
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 1587, y: 4}
-  - name: background
+  - name: LampDebris_01
     originalName: 
     pivot: {x: 0.5, y: 0.5}
     alignment: 0
@@ -185,9 +101,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 2048
-      height: 1284
-    spriteID: 3418335d063309c45bd972e8957a1e1d
+      width: 110
+      height: 86
+    spriteID: 235352824da5638449d9e38d868e587f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -196,7 +112,133 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 4, y: 4}
+    uvTransform: {x: -258, y: -152}
+  - name: LampDebris_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 122
+      y: 4
+      width: 71
+      height: 65
+    spriteID: 1063cfe522da66848b98c0e351bdbf40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -272, y: -152}
+  - name: LampDebris_03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 95
+      height: 75
+    spriteID: 4d2aae3524d06ea4a9999c90cebf0cfe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -266, y: 160}
+  - name: LampDebris_04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 284
+      width: 75
+      height: 81
+    spriteID: 8d6b03e5ffcae3741b0a4f8d22193705
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -143, y: 226}
+  - name: LampDebris_05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 373
+      width: 73
+      height: 70
+    spriteID: 52b55b6c24717be468a2a45b1ebcf29f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -31, y: 269}
+  - name: LampDebris_06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 90
+      height: 53
+    spriteID: a269520d235d9eb4292cde19918071ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -31, y: 235}
+  - name: LampDebris_07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 98
+      width: 93
+      height: 95
+    spriteID: ca0c38da749cf5d46b4c7484914e5fd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -143, y: -76}
   characterData:
     bones: []
     parts: []
@@ -227,123 +269,73 @@ ScriptedImporter:
   resliceFromLayer: 0
   mosaicPSDLayers: []
   rigPSDLayers:
-  - name: Rocket_colors
-    spriteName: 
-    isGroup: 1
+  - name: LampDebris_01
+    spriteName: LampDebris_01
+    isGroup: 0
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
-    layerID: 5283
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 1
-  - name: target_booster_yellow
-    spriteName: 
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 00000000000000000000000000000000
-    layerID: 5282
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: target_booster_orange
-    spriteName: 
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 00000000000000000000000000000000
-    layerID: 5285
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: target_booster_blue
-    spriteName: 
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 00000000000000000000000000000000
-    layerID: 5281
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: target_booster_red
-    spriteName: target_booster_red
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 7cab7e632f1a5b746af276f18ed6b3e9
-    layerID: 5280
-    mosaicPosition: {x: 3372, y: 150}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: target_booster_violet
-    spriteName: 
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 00000000000000000000000000000000
-    layerID: 5279
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 0
-  - name: Rocket_shadow
-    spriteName: Rocket_shadow
-    isGroup: 0
-    parentIndex: 0
-    spriteID: c042a38295de415428ede91c2e920e72
-    layerID: 5289
-    mosaicPosition: {x: 3372, y: 4}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: Chips_rast
-    spriteName: 
-    isGroup: 1
-    parentIndex: -1
-    spriteID: 00000000000000000000000000000000
-    layerID: 5257
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 1
-  - name: Chips
-    spriteName: Chips
-    isGroup: 0
-    parentIndex: 7
-    spriteID: 7d1e774d46477584696f90d3a6b348a9
-    layerID: 4410
-    mosaicPosition: {x: 4, y: 1296}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: bg
-    spriteName: 
-    isGroup: 1
-    parentIndex: -1
-    spriteID: 00000000000000000000000000000000
-    layerID: 5082
-    mosaicPosition: {x: 0, y: 0}
-    flatten: 0
-    isImported: 0
-    isVisible: 1
-  - name: Field_n_shadow
-    spriteName: Field_n_shadow
-    isGroup: 0
-    parentIndex: 9
-    spriteID: c94b2962e4f266a47b928c8f522d5d8c
-    layerID: 5268
-    mosaicPosition: {x: 2060, y: 4}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: background
-    spriteName: background
-    isGroup: 0
-    parentIndex: 9
-    spriteID: 3418335d063309c45bd972e8957a1e1d
-    layerID: 5269
+    spriteID: 235352824da5638449d9e38d868e587f
+    layerID: 4
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LampDebris_02
+    spriteName: LampDebris_02
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1063cfe522da66848b98c0e351bdbf40
+    layerID: 5
+    mosaicPosition: {x: 122, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LampDebris_03
+    spriteName: LampDebris_03
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4d2aae3524d06ea4a9999c90cebf0cfe
+    layerID: 6
+    mosaicPosition: {x: 4, y: 201}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LampDebris_04
+    spriteName: LampDebris_04
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8d6b03e5ffcae3741b0a4f8d22193705
+    layerID: 7
+    mosaicPosition: {x: 4, y: 284}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LampDebris_05
+    spriteName: LampDebris_05
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 52b55b6c24717be468a2a45b1ebcf29f
+    layerID: 8
+    mosaicPosition: {x: 4, y: 373}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LampDebris_06
+    spriteName: LampDebris_06
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a269520d235d9eb4292cde19918071ab
+    layerID: 9
+    mosaicPosition: {x: 4, y: 451}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LampDebris_07
+    spriteName: LampDebris_07
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ca0c38da749cf5d46b4c7484914e5fd0
+    layerID: 10
+    mosaicPosition: {x: 4, y: 98}
     flatten: 0
     isImported: 1
     isVisible: 1

@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -49,9 +49,9 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
@@ -129,406 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Chips_Clip_0
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 1034
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6fa8e1399d90fa47ada89b9370c0943
-      internalID: 213738471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_1
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 1034
-        width: 127
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b2a43e6de0c8df249b9220f312fff784
-      internalID: 973977637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_2
-      rect:
-        serializedVersion: 2
-        x: 385
-        y: 1034
-        width: 124
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6725a44cb316f534ba3dd6a0583a8d25
-      internalID: 2045864359
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_3
-      rect:
-        serializedVersion: 2
-        x: 513
-        y: 1032
-        width: 124
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1faadc464a37a6b47a0ef74ec5547736
-      internalID: 1979313318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_4
-      rect:
-        serializedVersion: 2
-        x: 643
-        y: 1029
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a8e91b1a1434f147976df13d9108544
-      internalID: 1563329045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_5
-      rect:
-        serializedVersion: 2
-        x: 772
-        y: 1025
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07ac1be181106b64e9f269b497273a6d
-      internalID: 574955879
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_6
-      rect:
-        serializedVersion: 2
-        x: 900
-        y: 1025
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd12ac144553c7040ab24168754fee2a
-      internalID: -1347683902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_7
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 905
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba9deb843b26f624ebe123f355579f0d
-      internalID: -444324993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_8
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 776
-        width: 128
-        height: 124
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e3dbdfcaca35ea40a83fcb03a5e59c9
-      internalID: 1221689504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_9
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 903
-        width: 124
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23297aef10061a0489410ee36c4f1011
-      internalID: -1799981715
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_10
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 903
-        width: 124
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7da42dfdaa634404f9d49e0147029768
-      internalID: 34135774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_11
-      rect:
-        serializedVersion: 2
-        x: 519
-        y: 905
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5aa99bbd68de2343bcfc397d75a1e99
-      internalID: -1400728970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_12
-      rect:
-        serializedVersion: 2
-        x: 641
-        y: 900
-        width: 124
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49d1d8667cf7dee499a9063eecc8ac0c
-      internalID: -596937304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_13
-      rect:
-        serializedVersion: 2
-        x: 770
-        y: 903
-        width: 123
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d6ba014b561fb94b81e8846fb56cf93
-      internalID: -449248898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_14
-      rect:
-        serializedVersion: 2
-        x: 900
-        y: 783
-        width: 122
-        height: 238
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f298bba887ca47c429b437d91d684a65
-      internalID: 739183928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_15
-      rect:
-        serializedVersion: 2
-        x: 1036
-        y: 905
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee4dbdbb02a36d941b3a8200533c8509
-      internalID: 1704233846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_16
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 776
-        width: 124
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45a6d2220f66a4b488681caf51dad376
-      internalID: -1405618007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_17
-      rect:
-        serializedVersion: 2
-        x: 255
-        y: 776
-        width: 127
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88d842ee25202594c93f4424d7114cc6
-      internalID: 120995435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_18
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 776
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fdc7c3032119594891338be92ce9c27
-      internalID: -1137341979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_19
+      name: Debris_06
       rect:
         serializedVersion: 2
         x: 515
@@ -536,11 +137,36 @@ TextureImporter:
         width: 123
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 59.5, y: -25}
+        - {x: 61.5, y: -22}
+        - {x: 61.5, y: 13}
+        - {x: 57.5, y: 22}
+        - {x: 40.5, y: 33}
+        - {x: 33.5, y: 27}
+        - {x: 26.5, y: 16}
+        - {x: 31.5, y: 4}
+        - {x: 30.5, y: -11}
+        - {x: 14.5, y: -19}
+        - {x: 10.5, y: 5}
+        - {x: -5.5, y: -12}
+        - {x: -3.5, y: -27}
+        - {x: -17.5, y: -28}
+        - {x: -26.5, y: -22}
+        - {x: -35.5, y: 4}
+        - {x: -44.5, y: -11}
+        - {x: -48.5, y: -21}
+        - {x: -36.5, y: -47}
+        - {x: -24.5, y: -57}
+        - {x: -20.5, y: -58}
+        - {x: 21.5, y: -58}
+        - {x: 31.5, y: -54}
+        - {x: 43.5, y: -37}
+        - {x: 51.5, y: -32}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.36
       bones: []
       spriteID: 998b5d51c4f56654f9045b17b49b80e0
       internalID: -1330639319
@@ -549,7 +175,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chips_Clip_20
+      name: Debris_05
       rect:
         serializedVersion: 2
         x: 642
@@ -557,11 +183,31 @@ TextureImporter:
         width: 123
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -24.5, y: -33}
+        - {x: -10.5, y: -16}
+        - {x: -19.5, y: -5}
+        - {x: -39.5, y: -6}
+        - {x: -40.5, y: 6}
+        - {x: -32.5, y: 13}
+        - {x: -19.5, y: 17}
+        - {x: 0.5, y: 24}
+        - {x: -1.5, y: 36}
+        - {x: -16.5, y: 41}
+        - {x: -11.5, y: 48}
+        - {x: -24.5, y: 58}
+        - {x: -32.5, y: 57}
+        - {x: -43.5, y: 49}
+        - {x: -48.5, y: 40}
+        - {x: -57.5, y: 19}
+        - {x: -61.5, y: 9}
+        - {x: -61.5, y: -21}
+        - {x: -59.5, y: -24}
+        - {x: -49.5, y: -33}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.42
       bones: []
       spriteID: 2e9573d559f9d8d47b5ff2d2b4ee0fe5
       internalID: -1831731121
@@ -570,196 +216,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chips_Clip_21
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 777
-        width: 127
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4ced86aa3fecfa41babae9d99c4874c
-      internalID: -948073334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_22
-      rect:
-        serializedVersion: 2
-        x: 1025
-        y: 776
-        width: 124
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce2cc22174e5c95428c16376fc0230b7
-      internalID: 1182290710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_23
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 650
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a77a97fc2f9e71c4483231ab75a1562e
-      internalID: 536383523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_24
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 647
-        width: 124
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 43e55fcc18cce61458f72aa9d7449e11
-      internalID: -1893842455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_25
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 645
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31f25f10ce3e0ad4ba0df6cc9c609279
-      internalID: -1889537107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_26
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 645
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 659405e6d0d908b4a81434d1ed02b1fe
-      internalID: 1496969287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_27
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 645
-        width: 127
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62ac7e3e818784548b79bae1dc78a00c
-      internalID: -945903933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_28
-      rect:
-        serializedVersion: 2
-        x: 771
-        y: 649
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 07a6b6d97c5fe254ea5637be42eb23a5
-      internalID: 476758597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_29
-      rect:
-        serializedVersion: 2
-        x: 897
-        y: 649
-        width: 124
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ddbebec7139dfee4996a9191dd5bc45e
-      internalID: -1775054112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_30
+      name: Debris_01
       rect:
         serializedVersion: 2
         x: 1028
@@ -767,11 +224,38 @@ TextureImporter:
         width: 123
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -2.5, y: -40}
+        - {x: 6.5, y: -36}
+        - {x: 14.5, y: -29}
+        - {x: 16.5, y: -25}
+        - {x: -2.5, y: -29}
+        - {x: -6.5, y: -17}
+        - {x: -12.5, y: -9}
+        - {x: -19.5, y: -2}
+        - {x: -8.5, y: 11}
+        - {x: -8.5, y: 25}
+        - {x: -23.5, y: 16}
+        - {x: -31.5, y: 15}
+        - {x: -42.5, y: 7}
+        - {x: -47.5, y: -2}
+        - {x: -57.5, y: 19}
+        - {x: -61.5, y: 9}
+        - {x: -61.5, y: -21}
+        - {x: -59.5, y: -24}
+        - {x: -49.5, y: -33}
+        - {x: -39.5, y: -38}
+        - {x: -36.5, y: -47}
+        - {x: -24.5, y: -57}
+        - {x: -20.5, y: -58}
+        - {x: -24.5, y: -34}
+        - {x: -17.5, y: -34}
+        - {x: -15.5, y: -34}
+        - {x: -9.5, y: -34}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.42
       bones: []
       spriteID: 05e252abb3dc1f349aea563b2ce9827a
       internalID: -843196788
@@ -780,271 +264,42 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chips_Clip_31
+      name: Debris_02
       rect:
         serializedVersion: 2
-        x: 0
-        y: 521
-        width: 126
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d91c5d8e3428efb458e4959a16a8f825
-      internalID: -815522838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_32
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 523
-        width: 123
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2064374e6406d244895f041851ff4f8c
-      internalID: -1367995983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_33
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 521
-        width: 126
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b68170e8913b1ad45b286941bb4d74e6
-      internalID: -1247624332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_34
-      rect:
-        serializedVersion: 2
-        x: 775
-        y: 521
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0254ff52e8efce14187be8730a9e1d3d
-      internalID: 1545189579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_35
-      rect:
-        serializedVersion: 2
-        x: 900
-        y: 521
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00c0924dcb0f712448f153ed0763bd72
-      internalID: 718584344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_36
-      rect:
-        serializedVersion: 2
-        x: 1038
-        y: 521
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c532bb324d276ba4c9a6bdfa3d70522e
-      internalID: -516777881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_37
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 394
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e1676fc75b8d4e4d8eb2b5d98704a22
-      internalID: -1763980665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_38
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 394
-        width: 124
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d782e934f209c6540a4d44ae59f3bd14
-      internalID: 1663732179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_39
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 389
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c709e1e03b8e3f54bbd5832dc94850ff
-      internalID: -453633868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_40
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 389
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b204b51be218b845a7eeda75d2cabc0
-      internalID: -1573490006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_41
-      rect:
-        serializedVersion: 2
-        x: 515
-        y: 265
-        width: 124
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1d493c1dd0ac7848bebb9f2d86fe504
-      internalID: -1442876431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_42
-      rect:
-        serializedVersion: 2
-        x: 779
-        y: 389
-        width: 123
-        height: 119
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8313eecbfe436045bd3c98e0b16f843
-      internalID: -1623262180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_43
-      rect:
-        serializedVersion: 2
-        x: 1038
+        x: 1037
         y: 392
         width: 123
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: 36.5, y: -48}
+        - {x: 42.5, y: -36}
+        - {x: 43.5, y: -36}
+        - {x: 55.5, y: -30}
+        - {x: 61.5, y: -23}
+        - {x: 61.5, y: 13}
+        - {x: 58.5, y: 21}
+        - {x: 47.5, y: 11}
+        - {x: 41.5, y: 24}
+        - {x: 34.5, y: 31}
+        - {x: 29.5, y: 33}
+        - {x: 23.5, y: 35}
+        - {x: 19.5, y: 36}
+        - {x: 37.5, y: 10}
+        - {x: 34.5, y: -10}
+        - {x: 23.5, y: 5}
+        - {x: 15.5, y: -21}
+        - {x: -3.5, y: -13}
+        - {x: 10.5, y: -35}
+        - {x: -7.5, y: -40}
+        - {x: 20.5, y: -58}
+        - {x: 28.5, y: -55}
+        - {x: 30.5, y: -53}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.58
       bones: []
       spriteID: fcff0474d0b371a41889982a8e427e5f
       internalID: 45330851
@@ -1053,91 +308,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chips_Clip_44
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 265
-        width: 126
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de603af677773ce4dba4724b0da2f383
-      internalID: -2091863857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_45
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 260
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d52551fbe89df04b812f30d2e30274e
-      internalID: 1045016859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_46
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 260
-        width: 123
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30a1b1afd1637364e8d860886b910bfa
-      internalID: -1100204422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_47
-      rect:
-        serializedVersion: 2
-        x: 780
-        y: 262
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3866ed82b1c358d40acb37b2da336385
-      internalID: -418105583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_48
+      name: Debris_04
       rect:
         serializedVersion: 2
         x: 1027
@@ -1145,11 +316,30 @@ TextureImporter:
         width: 123
         height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -28.5, y: 32}
+        - {x: -23.5, y: 7}
+        - {x: -10.5, y: 25}
+        - {x: 3.5, y: 15}
+        - {x: 10.5, y: 36}
+        - {x: 19.5, y: 23}
+        - {x: 27.5, y: 11}
+        - {x: 35.5, y: 23}
+        - {x: 34.5, y: 36}
+        - {x: 61.5, y: 13}
+        - {x: 57.5, y: 22}
+        - {x: 48.5, y: 47}
+        - {x: 32.5, y: 58}
+        - {x: -27.5, y: 58}
+        - {x: -32.5, y: 57}
+        - {x: -43.5, y: 49}
+        - {x: -48.5, y: 40}
+        - {x: -57.5, y: 19}
+        - {x: -61.5, y: 9}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.3
       bones: []
       spriteID: 4a82c81866e65d648839652c2683e140
       internalID: -368547464
@@ -1158,343 +348,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chips_Clip_49
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 130
-        width: 126
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74310721b54a46743b5028d00244b2d5
-      internalID: -2101285385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_50
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 130
-        width: 126
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fd53877c64a48b4890fb06a6f22eb16
-      internalID: 108888892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_51
-      rect:
-        serializedVersion: 2
-        x: 387
-        y: 134
-        width: 123
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cde138ead9116354780b5071ece7d6ae
-      internalID: 538667388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_52
-      rect:
-        serializedVersion: 2
-        x: 515
-        y: 133
-        width: 126
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a735c1c3a2ed0e44790c5cffe7db1c5b
-      internalID: -952281315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_53
-      rect:
-        serializedVersion: 2
-        x: 769
-        y: 136
-        width: 124
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 141ad8b70cc82d640819c59d826bbb7a
-      internalID: -820788163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_54
-      rect:
-        serializedVersion: 2
-        x: 906
-        y: 133
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2338d5b87d24e5141bd79b7d998c65e9
-      internalID: -386653839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_55
-      rect:
-        serializedVersion: 2
-        x: 1033
-        y: 132
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffbbc458dbc050744b8285d1856311eb
-      internalID: -691487870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_56
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 0
-        width: 126
-        height: 120
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc6ab1f488563274c93ce948fb6ccc42
-      internalID: 1788982983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_57
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 9
-        width: 123
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 505de135323d2ea428d37f95e295a3c2
-      internalID: -1284552266
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_58
-      rect:
-        serializedVersion: 2
-        x: 387
-        y: 9
-        width: 123
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc8a4b84976c96040922aadbe26ec014
-      internalID: 1896436883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_59
-      rect:
-        serializedVersion: 2
-        x: 515
-        y: 1
-        width: 127
-        height: 113
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a4c0e4e389ba7640b391301da31a2e8
-      internalID: 163398600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_60
-      rect:
-        serializedVersion: 2
-        x: 643
-        y: 3
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cd48ec8ebc3fcc4284237d574cf9fb8
-      internalID: -1081007865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_61
-      rect:
-        serializedVersion: 2
-        x: 775
-        y: 1
-        width: 122
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4710c382b66c8f5418c7dd9837fe2d33
-      internalID: 597048873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_62
-      rect:
-        serializedVersion: 2
-        x: 906
-        y: 6
-        width: 113
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c77f3b3c535cc0f418696033fb329228
-      internalID: 1272271211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_63
-      rect:
-        serializedVersion: 2
-        x: 634
-        y: 390
-        width: 128
-        height: 126
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f465fbe07d6f764ba0176e52baf0254
-      internalID: -178252981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_64
-      rect:
-        serializedVersion: 2
-        x: 639
-        y: 272
-        width: 122
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73d88171543d0bf42819c99502b4ee6a
-      internalID: 2121242756
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_65
+      name: Debris_03
       rect:
         serializedVersion: 2
         x: 903
@@ -1502,56 +356,43 @@ TextureImporter:
         width: 117
         height: 121
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -42.5, y: 21.5}
+        - {x: -29.5, y: 30.5}
+        - {x: -18.5, y: 21.5}
+        - {x: -26.5, y: 8.5}
+        - {x: -11.5, y: 8.5}
+        - {x: -4.5, y: 17.5}
+        - {x: 6.5, y: 23.5}
+        - {x: 25.5, y: 22.5}
+        - {x: 17.5, y: 5.5}
+        - {x: 30.5, y: 9.5}
+        - {x: 24.5, y: 0.5}
+        - {x: 20.5, y: -9.5}
+        - {x: 34.5, y: -8.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 27.5, y: -50.5}
+        - {x: 54.5, y: -30.5}
+        - {x: 58.5, y: -25.5}
+        - {x: 58.5, y: 18.5}
+        - {x: 57.5, y: 21.5}
+        - {x: 46.5, y: 45.5}
+        - {x: 39.5, y: 52.5}
+        - {x: 29.5, y: 57.5}
+        - {x: 12.5, y: 59.5}
+        - {x: -9.5, y: 59.5}
+        - {x: -18.5, y: 58.5}
+        - {x: -31.5, y: 56.5}
+        - {x: -38.5, y: 52.5}
+        - {x: -43.5, y: 48.5}
+        - {x: -48.5, y: 39.5}
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: 0.5
       bones: []
       spriteID: 225f48cfdb8d5a0408cc7ff5bd4075e9
       internalID: 317912260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_66
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 132
-        width: 122
-        height: 118
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ce3df80cb3fc1744b6171becf669cd7
-      internalID: -851536887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Chips_Clip_67
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 902
-        width: 122
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b927f2e19ed02a44d8d7b92085a313fe
-      internalID: -1115097137
       vertices: []
       indices: 
       edges: []
@@ -1581,6 +422,7 @@ TextureImporter:
       Chips_Clip_38: 1663732179
       Chips_Clip_10: 34135774
       Chips_Clip_28: 476758597
+      Debris_02: 45330851
       Chips_Clip_34: 1545189579
       Chips_Clip_53: -820788163
       Chips_Clip_50: 108888892
@@ -1592,17 +434,17 @@ TextureImporter:
       Chips_Clip_17: 120995435
       Chips_Clip_51: 538667388
       Chips_Clip_67: -1115097137
+      Chips_Clip_63: -178252981
       Chips_Clip_52: -952281315
       Chips_Clip_2: 2045864359
-      Chips_Clip_19: -1330639319
+      Chips_Clip_54: -386653839
       Chips_Clip_62: 1272271211
       Chips_Clip_9: -1799981715
-      Chips_Clip_54: -386653839
-      Chips_Clip_36: -516777881
-      Chips_Clip_31: -815522838
-      Chips_Clip_63: -178252981
       Chips_Clip_49: -2101285385
+      Chips_Clip_31: -815522838
+      Chips_Clip_36: -516777881
       Chips_Clip_13: -449248898
+      Debris_01: -843196788
       Chips_Clip_16: -1405618007
       Chips_Clip_42: -1623262180
       Chips_Clip_3: 1979313318
@@ -1612,23 +454,22 @@ TextureImporter:
       Chips_Clip_23: 536383523
       Chips_Clip_58: 1896436883
       Chips_Clip_21: -948073334
-      Chips_Clip_30: -843196788
       Chips_Clip_59: 163398600
-      Chips_Clip_20: -1831731121
       Chips_Clip_40: -1573490006
       Chips_Clip_44: -2091863857
-      Chips_Clip_48: -368547464
-      Chips_Clip_27: -945903933
+      Debris_06: -1330639319
       Chips_Clip_56: 1788982983
+      Chips_Clip_27: -945903933
       Chips_Clip_60: -1081007865
-      Chips_Clip_65: 317912260
+      Debris_03: 317912260
       Chips_Clip_33: -1247624332
+      Debris_04: -368547464
       Chips_Clip_26: 1496969287
       Chips_Clip_29: -1775054112
-      Chips_Clip_43: 45330851
+      Chips_Clip_47: -418105583
       Chips_Clip_61: 597048873
       Chips_Clip_12: -596937304
-      Chips_Clip_47: -418105583
+      Debris_05: -1831731121
       Chips_Clip_24: -1893842455
       Chips_Clip_7: -444324993
       Chips_Clip_32: -1367995983
